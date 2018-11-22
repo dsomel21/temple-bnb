@@ -18,8 +18,7 @@
   "homepage": "https://github.com/dsomel21/temple-bnb#readme",
   "private": true,
   "workspaces": [
-    "common",
-    "server"
+    "packages/*"
   ],
   "devDependencies": {
     "eslint": "^5.9.0",
